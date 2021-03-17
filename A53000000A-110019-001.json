@@ -1,0 +1,40 @@
+[{ 
+	    "success": true, 
+	    "result": {     
+		    "resource_id": "A53000000A-110019-001",     
+		    "fields":[
+  {
+    "type": "int4",
+    "id": "Seq"
+  },
+  {
+    "type": "text",
+    "id": "DateListed"
+  },
+  {
+    "type": "text",
+    "id": "年度"
+  },
+  {
+    "type": "text",
+    "id": "項目"
+  },
+  {
+    "type": "text",
+    "id": "檔案pdf"
+  }
+],     
+            "records":[
+  {
+    "Seq": 1,
+    "DateListed": "2021/03/02",
+    "年度": "107",
+    "項目": "107 學年度 原住民族教育調查統計",
+    "檔案pdf": "https://lod2.apc.gov.tw//Shared/DownloadFile.aspx?filno=c9145118-89bf-4fce-b1b4-de15c4465599"
+  }
+],     
+            "limit":0,     
+            "offset":0,     
+            "total":1 
+        } 
+    }]
